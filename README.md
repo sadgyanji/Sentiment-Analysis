@@ -1,4 +1,4 @@
-# AI Project Hub
+# Sentiment Analysis
 
 A comprehensive application that combines multiple AI projects into a single, user-friendly interface. Currently includes Face Emotion Recognition and Sentiment Analysis capabilities.
 
